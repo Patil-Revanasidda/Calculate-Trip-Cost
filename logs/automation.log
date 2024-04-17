@@ -1,0 +1,18 @@
+16:52:28.032 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:52:28.044 [main] INFO  stepDefinition.Hooks - ----------- CruisePage Test case Starts -----------
+16:52:28.044 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:52:28.044 [main] INFO  stepDefinition.Hooks - User is on the Home Page
+16:52:28.044 [main] INFO  stepDefinition.Hooks - User Mouse over on the +more 
+16:52:29.305 [main] INFO  stepDefinition.Hooks - User Click on the Cruise 
+16:52:29.552 [main] INFO  stepDefinition.Hooks - User Click on the One Cruise Line
+16:52:30.840 [main] INFO  stepDefinition.Hooks - Display the all Inclusion Points 
+16:52:38.961 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:52:38.962 [main] INFO  stepDefinition.Hooks - ------------ Gift Page Test Case Starts  ------------
+16:52:38.962 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:52:38.962 [main] INFO  stepDefinition.Hooks - User is on the Home Page
+16:52:38.962 [main] INFO  stepDefinition.Hooks - User Mouse over on the +more 
+16:52:40.350 [main] INFO  stepDefinition.Hooks - User Clicked on the Gift Voucher from the List
+16:52:41.672 [main] INFO  stepDefinition.Hooks - User is On GiftVoucher Page
+16:52:42.418 [main] INFO  stepDefinition.Hooks - User Scroll to the Corporate Queries
+16:52:44.825 [main] INFO  stepDefinition.Hooks - Display the Email Error Message
+16:52:46.535 [main] INFO  stepDefinition.Hooks - Display the Phone Error Message

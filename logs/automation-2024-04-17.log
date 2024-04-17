@@ -1,0 +1,60 @@
+16:16:05.362 [main] INFO  stepDefinition.Hooks - User Click on the One Cruise Line
+16:16:06.900 [main] INFO  stepDefinition.Hooks - Display the all Inclusion Points 
+16:16:14.838 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:16:14.839 [main] INFO  stepDefinition.Hooks - ------------ Gift Page Test Case Starts  ------------
+16:16:14.839 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:16:14.839 [main] INFO  stepDefinition.Hooks - User is on the Home Page
+16:16:14.839 [main] INFO  stepDefinition.Hooks - User Mouse over on the +more 
+16:16:16.101 [main] INFO  stepDefinition.Hooks - User Clicked on the Gift Voucher from the List
+16:16:17.212 [main] INFO  stepDefinition.Hooks - User is On GiftVoucher Page
+16:16:18.298 [main] INFO  stepDefinition.Hooks - User Scroll to the Corporate Queries
+16:16:20.809 [main] INFO  stepDefinition.Hooks - Display the Email Error Message
+16:16:22.266 [main] INFO  stepDefinition.Hooks - Display the Phone Error Message
+16:17:46.592 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:17:46.597 [main] INFO  stepDefinition.Hooks - ----- Hotel Search Test Case Starts ------
+16:17:46.597 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:17:46.597 [main] INFO  stepDefinition.Hooks - User is On Yatra.com Page
+16:17:46.734 [main] INFO  stepDefinition.Hooks - User Clicked on the Hotel Navbar
+16:17:53.319 [main] INFO  stepDefinition.Hooks - User Entered the Location
+16:17:54.466 [main] INFO  stepDefinition.Hooks - User Pickup the Checkout Date
+16:17:55.175 [main] INFO  stepDefinition.Hooks - User add 4 Pepoles
+16:18:02.530 [main] INFO  stepDefinition.Hooks - User Clicked on the Search Button
+16:18:03.031 [main] INFO  stepDefinition.Hooks - User Clicked on the User Rating
+16:18:07.521 [main] INFO  stepDefinition.Hooks - User Clicked on the FreeWifi Checkbox
+16:18:11.703 [main] INFO  stepDefinition.Hooks - User Clicked on the FreeBreakFast Checkbox
+16:18:16.462 [main] INFO  stepDefinition.Hooks - User Clicked on the Swimmingpool Checkbox
+16:18:20.997 [main] INFO  stepDefinition.Hooks - User Clicked on the laundryfacilites Checkbox
+16:18:28.350 [main] INFO  stepDefinition.Hooks - Displayed the Top 3 Hotels
+16:18:37.637 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:18:37.638 [main] INFO  stepDefinition.Hooks - ----------- CruisePage Test case Starts -----------
+16:18:37.638 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:18:37.638 [main] INFO  stepDefinition.Hooks - User is on the Home Page
+16:18:37.638 [main] INFO  stepDefinition.Hooks - User Mouse over on the +more 
+16:18:38.851 [main] INFO  stepDefinition.Hooks - User Click on the Cruise 
+16:18:39.059 [main] INFO  stepDefinition.Hooks - User Click on the One Cruise Line
+16:18:41.080 [main] INFO  stepDefinition.Hooks - Display the all Inclusion Points 
+16:18:49.674 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:18:49.674 [main] INFO  stepDefinition.Hooks - ------------ Gift Page Test Case Starts  ------------
+16:18:49.674 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:18:49.674 [main] INFO  stepDefinition.Hooks - User is on the Home Page
+16:18:49.674 [main] INFO  stepDefinition.Hooks - User Mouse over on the +more 
+16:18:50.839 [main] INFO  stepDefinition.Hooks - User Clicked on the Gift Voucher from the List
+16:18:51.157 [main] INFO  stepDefinition.Hooks - User is On GiftVoucher Page
+16:18:52.071 [main] INFO  stepDefinition.Hooks - User Scroll to the Corporate Queries
+16:18:54.059 [main] INFO  stepDefinition.Hooks - Display the Email Error Message
+16:18:55.494 [main] INFO  stepDefinition.Hooks - Display the Phone Error Message
+16:51:38.140 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:51:38.146 [main] INFO  stepDefinition.Hooks - ----- Hotel Search Test Case Starts ------
+16:51:38.146 [main] INFO  stepDefinition.Hooks - ----------------------------------
+16:51:38.146 [main] INFO  stepDefinition.Hooks - User is On Yatra.com Page
+16:51:38.506 [main] INFO  stepDefinition.Hooks - User Clicked on the Hotel Navbar
+16:51:45.342 [main] INFO  stepDefinition.Hooks - User Entered the Location
+16:51:46.615 [main] INFO  stepDefinition.Hooks - User Pickup the Checkout Date
+16:51:47.275 [main] INFO  stepDefinition.Hooks - User add 4 Pepoles
+16:51:53.392 [main] INFO  stepDefinition.Hooks - User Clicked on the Search Button
+16:51:53.841 [main] INFO  stepDefinition.Hooks - User Clicked on the User Rating
+16:51:58.448 [main] INFO  stepDefinition.Hooks - User Clicked on the FreeWifi Checkbox
+16:52:02.643 [main] INFO  stepDefinition.Hooks - User Clicked on the FreeBreakFast Checkbox
+16:52:07.246 [main] INFO  stepDefinition.Hooks - User Clicked on the Swimmingpool Checkbox
+16:52:11.822 [main] INFO  stepDefinition.Hooks - User Clicked on the laundryfacilites Checkbox
+16:52:19.196 [main] INFO  stepDefinition.Hooks - Displayed the Top 3 Hotels
